@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 change readme test change
 test HEAD N
 test status
+test wok
